@@ -1,8 +1,6 @@
 # Sobre mim
 
-Sou estudante do **4º ano do curso Técnico em Informática para Internet** no  
-**Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**,  
-com foco em **desenvolvimento web**.
+Sou estudante do **4º ano do curso Técnico em Informática para Internet** no **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**, com foco em **desenvolvimento web**.
 
 # Tecnologias e conhecimentos
 
@@ -15,8 +13,7 @@ Tenho experiência com:
 
 # Experiência
 
-Atuei por **2 anos como bolsista** no  
-**Centro de Integração Tecnológica (CITec) — IFRS Campus Rio Grande**.
+Atuei por **2 anos como bolsista** no **Centro de Integração Tecnológica (CITec) — IFRS Campus Rio Grande**.
 
 Durante esse período, tive contato com diversas áreas da tecnologia, como:
 
