@@ -13,8 +13,6 @@ Tenho experiência com:
 - **Banco de dados:** MySQL, PostgreSQL  
 - **Fundamentos:** Lógica de programação e desenvolvimento de sistemas  
 
----
-
 # Experiência
 
 Atuei por **2 anos como bolsista** no  
@@ -26,8 +24,6 @@ Durante esse período, tive contato com diversas áreas da tecnologia, como:
 - Automação  
 - Atuação como docente em cursos da área tecnológica  
 
----
-
 # Trajetória e aprendizado
 
 Desde cedo tenho interesse por tecnologia e programação, sendo **autodidata** e sempre em busca de novos conhecimentos.
@@ -38,8 +34,6 @@ Já explorei diferentes áreas, como:
 - Programação com **Lua** e **C++**  
 - Projetos com **Arduino** e automação  
 
----
-
 # Objetivo
 
 Atualmente, estou em busca de uma **oportunidade de estágio na área de desenvolvimento**, onde eu possa:
@@ -49,7 +43,5 @@ Atualmente, estou em busca de uma **oportunidade de estágio na área de desenvo
 - Evoluir como desenvolvedor  
 
 Tenho interesse em atuar como **desenvolvedor full stack** e estou constantemente estudando e aprimorando minhas habilidades.
-
----
 
 # Contato
