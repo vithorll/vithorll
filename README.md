@@ -4,9 +4,7 @@ Sou estudante do **4º ano do curso Técnico em Informática para Internet** no
 **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**,  
 com foco em **desenvolvimento web**.
 
----
-
-## Tecnologias e conhecimentos
+# Tecnologias e conhecimentos
 
 Tenho experiência com:
 
@@ -17,7 +15,7 @@ Tenho experiência com:
 
 ---
 
-## Experiência
+# Experiência
 
 Atuei por **2 anos como bolsista** no  
 **Centro de Integração Tecnológica (CITec) — IFRS Campus Rio Grande**.
@@ -30,7 +28,7 @@ Durante esse período, tive contato com diversas áreas da tecnologia, como:
 
 ---
 
-## Trajetória e aprendizado
+# Trajetória e aprendizado
 
 Desde cedo tenho interesse por tecnologia e programação, sendo **autodidata** e sempre em busca de novos conhecimentos.
 
@@ -42,7 +40,7 @@ Já explorei diferentes áreas, como:
 
 ---
 
-## Objetivo
+# Objetivo
 
 Atualmente, estou em busca de uma **oportunidade de estágio na área de desenvolvimento**, onde eu possa:
 
@@ -54,4 +52,4 @@ Tenho interesse em atuar como **desenvolvedor full stack** e estou constantement
 
 ---
 
-## 📫 Contato
+# Contato
