@@ -1,44 +1,65 @@
-# Sobre mim
+# Hi, I'm Víthor!
 
-Sou estudante do **4º ano do curso Técnico em Informática para Internet** no **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**, com foco em **desenvolvimento web**.
+**Full Stack Developer in training** · **Informatics student at IFRS**
 
-# Tecnologias e conhecimentos
+🇧🇷 [Português](README-pt.md)
 
-Tenho experiência com:
+I'm a student of **Informatics for Internet** at the Federal Institute of Education, Science and Technology of Rio Grande do Sul (IFRS), currently focused on developing my skills as a Full Stack Developer.
 
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** PHP  
-- **Banco de dados:** MySQL, PostgreSQL  
-- **Fundamentos:** Lógica de programação e desenvolvimento de sistemas  
+I enjoy learning by building projects, exploring new technologies, and turning ideas into practical applications.
 
-# Experiência
+## Technologies & Tools
 
-Atuei por **2 anos como bolsista** no **Centro de Integração Tecnológica (CITec) — IFRS Campus Rio Grande**.
+### Languages & Web Development
 
-Durante esse período, tive contato com diversas áreas da tecnologia, como:
+![Technologies](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php)
 
-- Suporte técnico  
-- Automação  
-- Atuação como docente em cursos da área tecnológica  
+### Databases & Development Tools
 
-# Trajetória e aprendizado
+![Technologies](https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,vscode)
 
-Desde cedo tenho interesse por tecnologia e programação, sendo **autodidata** e sempre em busca de novos conhecimentos.
+### Other Technologies
 
-Já explorei diferentes áreas, como:
+![Technologies](https://skillicons.dev/icons?i=blender,arduino,lua)
 
-- Desenvolvimento web  
-- Programação com **Lua** e **C++**  
-- Projetos com **Arduino** e automação  
+## Currently Learning
 
-# Objetivo
+* TypeScript
+* Backend development and REST APIs
+* Software architecture and engineering
+* Data structures and algorithms
+* Full Stack application development
 
-Atualmente, estou em busca de uma **oportunidade de estágio na área de desenvolvimento**, onde eu possa:
+## Experience
 
-- Aplicar meus conhecimentos  
-- Ganhar experiência prática  
-- Evoluir como desenvolvedor  
+### Centro de Integração Tecnológica — IFRS Campus Rio Grande
 
-Tenho interesse em atuar como **desenvolvedor full stack** e estou constantemente estudando e aprimorando minhas habilidades.
+**Technology Scholarship Student · 2024–2026**
 
-# Contato
+During my time at CITec, I gained practical experience in different areas of technology, including:
+
+* Technical support
+* Automation
+* Programming and software development
+* Technology education
+* Robotics and digital fabrication
+
+I also had the opportunity to work with technology education activities and help other students learn programming and related technologies.
+
+## Education
+
+**Technical Degree in Informatics for Internet**
+Federal Institute of Education, Science and Technology of Rio Grande do Sul — IFRS
+Rio Grande, RS, Brazil
+
+Currently in my final year.
+
+## What I'm Looking For
+
+I'm currently looking for opportunities to gain professional experience in **software development**, especially in **Full Stack Development**.
+
+I'm interested in building useful software, learning from experienced developers, and continuously improving my technical skills.
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
