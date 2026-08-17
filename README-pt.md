@@ -8,7 +8,7 @@ Sou estudante do curso **Técnico em Informática para Internet** no Instituto F
 
 Gosto de aprender desenvolvendo projetos, explorando novas tecnologias e transformando ideias em aplicações práticas.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens e Desenvolvimento Web
 
@@ -22,7 +22,7 @@ Gosto de aprender desenvolvendo projetos, explorando novas tecnologias e transfo
 
 ![Tecnologias](https://skillicons.dev/icons?i=blender,arduino,lua)
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 * TypeScript
 * Desenvolvimento de back-end e APIs REST
@@ -30,7 +30,7 @@ Gosto de aprender desenvolvendo projetos, explorando novas tecnologias e transfo
 * Estruturas de dados e algoritmos
 * Desenvolvimento de aplicações Full Stack
 
-## 💼 Experiência
+## Experiência
 
 ### Centro de Integração Tecnológica — IFRS Campus Rio Grande
 
@@ -46,7 +46,7 @@ Durante meu período no CITec, tive contato prático com diferentes áreas da te
 
 Também tive a oportunidade de participar de atividades de educação tecnológica e auxiliar outros estudantes no aprendizado de programação e tecnologias relacionadas.
 
-## 🎓 Formação
+## Formação
 
 **Curso Técnico em Informática para Internet**
 Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul — IFRS
@@ -54,12 +54,12 @@ Rio Grande, RS, Brasil
 
 Atualmente no último ano do curso.
 
-## 🎯 O que estou buscando
+## O que estou buscando
 
 Atualmente estou buscando oportunidades para adquirir experiência profissional na área de **desenvolvimento de software**, especialmente em **Desenvolvimento Full Stack**.
 
 Tenho interesse em desenvolver softwares úteis, aprender com desenvolvedores experientes e continuar aprimorando minhas habilidades técnicas.
 
-## 📫 Entre em contato
+## Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vithorll)
