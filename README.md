@@ -62,4 +62,4 @@ I'm interested in building useful software, learning from experienced developers
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vithorll)
